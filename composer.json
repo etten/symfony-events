@@ -1,6 +1,7 @@
 {
 	"name": "etten/symfony-events",
 	"description": "Symfony Events for Nette Framework",
+	"keywords": ["nette", "kdyby", "symfony", "events", "dispatcher"],
 	"license": "MIT",
 	"authors": [
 		{
