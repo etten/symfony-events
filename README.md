@@ -24,7 +24,7 @@ extensions:
 
 It's all!
 
-## Register `Symfony\Component\EventDispatcher\EventSubscriberInterface` implementor
+## Register `EventSubscriberInterface` implementor
 
 You have two options.
 Just open your config file, eg. `app/config/config.neon`.
