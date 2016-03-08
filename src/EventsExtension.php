@@ -28,7 +28,6 @@ class EventsExtension extends DI\CompilerExtension
 				$this->prefix('subscriber.' . md5($subscriber))
 			)
 				->setClass($subscriber)
-				->setAutowired(FALSE)
 				->addTag(self::SUBSCRIBER_TAG);
 		}
 	}
