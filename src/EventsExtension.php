@@ -62,10 +62,7 @@ class EventsExtension extends DI\CompilerExtension
 		}
 	}
 
-	/**
-	 * @return DI\ServiceDefinition
-	 */
-	private function getEventManager()
+	private function getEventManager() :DI\ServiceDefinition
 	{
 		$builder = $this->getContainerBuilder();
 
