@@ -11,8 +11,8 @@
 	],
 	"require": {
 		"php": ">=7.0",
-		"nette/di": "~2.3.0",
-		"nette/utils": "~2.3.0",
+		"nette/di": "^2.3",
+		"nette/utils": "^2.3",
 		"kdyby/events": "^3.0",
 		"symfony/event-dispatcher": "^2.8"
 	},
